@@ -1,0 +1,22 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="shōrAI">
+  <defs>
+    <linearGradient id="kintsugi" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E94B1F"/>
+      <stop offset="32%" stop-color="#F25A14"/>
+      <stop offset="64%" stop-color="#FF8A1F"/>
+      <stop offset="100%" stop-color="#FFB44A"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#kintsugi)" stroke-width="7">
+    <g transform="translate(120 120)">
+      <circle cx="0" cy="-44" r="30"/>
+      <circle cx="31" cy="-31" r="30"/>
+      <circle cx="44" cy="0" r="30"/>
+      <circle cx="31" cy="31" r="30"/>
+      <circle cx="0" cy="44" r="30"/>
+      <circle cx="-31" cy="31" r="30"/>
+      <circle cx="-44" cy="0" r="30"/>
+      <circle cx="-31" cy="-31" r="30"/>
+    </g>
+  </g>
+</svg>
