@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /_build/
+Disallow: /fr/legal/mentions-legales/
+Disallow: /fr/legal/politique-cookies/
+Disallow: /en/legal/legal-notice/
+Disallow: /en/legal/cookie-policy/
+Disallow: /es/legal/aviso-legal/
+Disallow: /es/legal/politica-cookies/
+Disallow: /pt/legal/aviso-legal/
+Disallow: /pt/legal/politica-cookies/
+
+Sitemap: https://shorai-group.com/sitemap.xml
